@@ -14,7 +14,7 @@ function run() {
           const browser = await puppeteer.launch();
           const page = await browser.newPage();
           var url = "https://u.gg/lol/tier-list?role=" + role_played[j] + "&patch=9_" + patch
-          var filename = role_played[j] + "/tierlist_9_" + patch + ".json"
+          var filename = "tier_lists/" + role_played[j] + "/tierlist_9_" + patch + ".json"
           await page.goto(url);
           await page.click('#qcCmpButtons > button:nth-child(2)');
           await page.waitForSelector("strong.champion-name");
