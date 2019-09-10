@@ -1,0 +1,402 @@
+[
+  {
+    "rank": "1",
+    "role": "jungle",
+    "champion": "Nunu & Willump",
+    "tier": "S+",
+    "winrate": "54.02%",
+    "pickrate": "5.2%",
+    "banrate": "2.7%",
+    "matches_played": "92,360"
+  },
+  {
+    "rank": "2",
+    "role": "jungle",
+    "champion": "Volibear",
+    "tier": "A",
+    "winrate": "53.01%",
+    "pickrate": "2.5%",
+    "banrate": "1.2%",
+    "matches_played": "44,131"
+  },
+  {
+    "rank": "3",
+    "role": "jungle",
+    "champion": "Vi",
+    "tier": "S",
+    "winrate": "52.73%",
+    "pickrate": "6.7%",
+    "banrate": "2.4%",
+    "matches_played": "118,847"
+  },
+  {
+    "rank": "4",
+    "role": "jungle",
+    "champion": "Udyr",
+    "tier": "S",
+    "winrate": "52.48%",
+    "pickrate": "2.8%",
+    "banrate": "1.3%",
+    "matches_played": "49,843"
+  },
+  {
+    "rank": "5",
+    "role": "jungle",
+    "champion": "Shaco",
+    "tier": "S",
+    "winrate": "52.29%",
+    "pickrate": "3.3%",
+    "banrate": "2.0%",
+    "matches_played": "57,940"
+  },
+  {
+    "rank": "6",
+    "role": "jungle",
+    "champion": "Kha'Zix",
+    "tier": "S+",
+    "winrate": "52.23%",
+    "pickrate": "13.1%",
+    "banrate": "10.4%",
+    "matches_played": "232,149"
+  },
+  {
+    "rank": "7",
+    "role": "jungle",
+    "champion": "Dr. Mundo",
+    "tier": "A",
+    "winrate": "52.22%",
+    "pickrate": "1.0%",
+    "banrate": "1.1%",
+    "matches_played": "17,848"
+  },
+  {
+    "rank": "8",
+    "role": "jungle",
+    "champion": "Ekko",
+    "tier": "A",
+    "winrate": "51.97%",
+    "pickrate": "2.0%",
+    "banrate": "1.8%",
+    "matches_played": "35,374"
+  },
+  {
+    "rank": "9",
+    "role": "jungle",
+    "champion": "Hecarim",
+    "tier": "S+",
+    "winrate": "51.92%",
+    "pickrate": "7.9%",
+    "banrate": "10.3%",
+    "matches_played": "141,214"
+  },
+  {
+    "rank": "10",
+    "role": "jungle",
+    "champion": "Olaf",
+    "tier": "A",
+    "winrate": "51.84%",
+    "pickrate": "1.5%",
+    "banrate": "0.7%",
+    "matches_played": "26,020"
+  },
+  {
+    "rank": "11",
+    "role": "jungle",
+    "champion": "Taliyah",
+    "tier": "A",
+    "winrate": "51.79%",
+    "pickrate": "1.3%",
+    "banrate": "0.3%",
+    "matches_played": "23,294"
+  },
+  {
+    "rank": "12",
+    "role": "jungle",
+    "champion": "Karthus",
+    "tier": "S",
+    "winrate": "51.73%",
+    "pickrate": "4.0%",
+    "banrate": "6.1%",
+    "matches_played": "70,350"
+  },
+  {
+    "rank": "13",
+    "role": "jungle",
+    "champion": "Zac",
+    "tier": "A",
+    "winrate": "51.62%",
+    "pickrate": "3.8%",
+    "banrate": "0.9%",
+    "matches_played": "66,715"
+  },
+  {
+    "rank": "14",
+    "role": "jungle",
+    "champion": "Warwick",
+    "tier": "A",
+    "winrate": "51.44%",
+    "pickrate": "3.7%",
+    "banrate": "0.8%",
+    "matches_played": "65,267"
+  },
+  {
+    "rank": "15",
+    "role": "jungle",
+    "champion": "Amumu",
+    "tier": "A",
+    "winrate": "51.44%",
+    "pickrate": "3.9%",
+    "banrate": "0.9%",
+    "matches_played": "69,719"
+  },
+  {
+    "rank": "16",
+    "role": "jungle",
+    "champion": "Nocturne",
+    "tier": "A",
+    "winrate": "51.06%",
+    "pickrate": "4.1%",
+    "banrate": "1.7%",
+    "matches_played": "73,627"
+  },
+  {
+    "rank": "17",
+    "role": "jungle",
+    "champion": "Jarvan IV",
+    "tier": "S+",
+    "winrate": "51.05%",
+    "pickrate": "12.6%",
+    "banrate": "5.3%",
+    "matches_played": "224,844"
+  },
+  {
+    "rank": "18",
+    "role": "jungle",
+    "champion": "Elise",
+    "tier": "S+",
+    "winrate": "51.00%",
+    "pickrate": "7.3%",
+    "banrate": "9.0%",
+    "matches_played": "130,554"
+  },
+  {
+    "rank": "19",
+    "role": "jungle",
+    "champion": "Jax",
+    "tier": "S",
+    "winrate": "50.70%",
+    "pickrate": "4.4%",
+    "banrate": "17.7%",
+    "matches_played": "78,880"
+  },
+  {
+    "rank": "20",
+    "role": "jungle",
+    "champion": "Rek'Sai",
+    "tier": "A",
+    "winrate": "50.65%",
+    "pickrate": "2.6%",
+    "banrate": "1.7%",
+    "matches_played": "46,545"
+  },
+  {
+    "rank": "21",
+    "role": "jungle",
+    "champion": "Rengar",
+    "tier": "S",
+    "winrate": "50.57%",
+    "pickrate": "5.5%",
+    "banrate": "9.0%",
+    "matches_played": "98,646"
+  },
+  {
+    "rank": "22",
+    "role": "jungle",
+    "champion": "Kindred",
+    "tier": "A",
+    "winrate": "50.53%",
+    "pickrate": "3.0%",
+    "banrate": "1.1%",
+    "matches_played": "53,905"
+  },
+  {
+    "rank": "23",
+    "role": "jungle",
+    "champion": "Twitch",
+    "tier": "A",
+    "winrate": "50.53%",
+    "pickrate": "2.0%",
+    "banrate": "1.4%",
+    "matches_played": "35,916"
+  },
+  {
+    "rank": "24",
+    "role": "jungle",
+    "champion": "Fiddlesticks",
+    "tier": "A",
+    "winrate": "50.52%",
+    "pickrate": "1.4%",
+    "banrate": "2.4%",
+    "matches_played": "24,634"
+  },
+  {
+    "rank": "25",
+    "role": "jungle",
+    "champion": "Shyvana",
+    "tier": "B",
+    "winrate": "50.50%",
+    "pickrate": "1.7%",
+    "banrate": "0.3%",
+    "matches_played": "30,977"
+  },
+  {
+    "rank": "26",
+    "role": "jungle",
+    "champion": "Graves",
+    "tier": "A",
+    "winrate": "50.48%",
+    "pickrate": "4.5%",
+    "banrate": "0.6%",
+    "matches_played": "80,314"
+  },
+  {
+    "rank": "27",
+    "role": "jungle",
+    "champion": "Master Yi",
+    "tier": "S+",
+    "winrate": "50.42%",
+    "pickrate": "6.4%",
+    "banrate": "13.2%",
+    "matches_played": "113,365"
+  },
+  {
+    "rank": "28",
+    "role": "jungle",
+    "champion": "Xin Zhao",
+    "tier": "A",
+    "winrate": "50.31%",
+    "pickrate": "4.1%",
+    "banrate": "1.5%",
+    "matches_played": "73,276"
+  },
+  {
+    "rank": "29",
+    "role": "jungle",
+    "champion": "Nidalee",
+    "tier": "A",
+    "winrate": "50.20%",
+    "pickrate": "3.7%",
+    "banrate": "1.1%",
+    "matches_played": "65,119"
+  },
+  {
+    "rank": "30",
+    "role": "jungle",
+    "champion": "Rammus",
+    "tier": "S",
+    "winrate": "50.12%",
+    "pickrate": "3.4%",
+    "banrate": "8.4%",
+    "matches_played": "59,816"
+  },
+  {
+    "rank": "31",
+    "role": "jungle",
+    "champion": "Evelynn",
+    "tier": "S",
+    "winrate": "49.79%",
+    "pickrate": "5.6%",
+    "banrate": "21.9%",
+    "matches_played": "100,048"
+  },
+  {
+    "rank": "32",
+    "role": "jungle",
+    "champion": "Skarner",
+    "tier": "B",
+    "winrate": "49.74%",
+    "pickrate": "1.1%",
+    "banrate": "0.2%",
+    "matches_played": "18,829"
+  },
+  {
+    "rank": "33",
+    "role": "jungle",
+    "champion": "Kayn",
+    "tier": "A",
+    "winrate": "49.73%",
+    "pickrate": "9.9%",
+    "banrate": "9.8%",
+    "matches_played": "176,182"
+  },
+  {
+    "rank": "34",
+    "role": "jungle",
+    "champion": "Gragas",
+    "tier": "B",
+    "winrate": "49.73%",
+    "pickrate": "5.8%",
+    "banrate": "0.9%",
+    "matches_played": "102,642"
+  },
+  {
+    "rank": "35",
+    "role": "jungle",
+    "champion": "Malphite",
+    "tier": "B",
+    "winrate": "49.61%",
+    "pickrate": "1.1%",
+    "banrate": "2.3%",
+    "matches_played": "19,048"
+  },
+  {
+    "rank": "36",
+    "role": "jungle",
+    "champion": "Wukong",
+    "tier": "B",
+    "winrate": "49.33%",
+    "pickrate": "1.1%",
+    "banrate": "0.2%",
+    "matches_played": "19,460"
+  },
+  {
+    "rank": "37",
+    "role": "jungle",
+    "champion": "Lee Sin",
+    "tier": "D",
+    "winrate": "47.52%",
+    "pickrate": "19.7%",
+    "banrate": "14.3%",
+    "matches_played": "350,255"
+  },
+  {
+    "rank": "38",
+    "role": "jungle",
+    "champion": "Sejuani",
+    "tier": "D",
+    "winrate": "46.47%",
+    "pickrate": "4.8%",
+    "banrate": "2.7%",
+    "matches_played": "85,969"
+  },
+  {
+    "rank": "39",
+    "role": "jungle",
+    "champion": "Sylas",
+    "tier": "D",
+    "winrate": "45.44%",
+    "pickrate": "6.2%",
+    "banrate": "21.5%",
+    "matches_played": "111,024"
+  },
+  {
+    "rank": "40",
+    "role": "jungle",
+    "champion": "Qiyana",
+    "tier": "D",
+    "winrate": "43.49%",
+    "pickrate": "1.1%",
+    "banrate": "19.7%",
+    "matches_played": "19,381"
+  }
+]

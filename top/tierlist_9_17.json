@@ -1,0 +1,402 @@
+[
+  {
+    "rank": "1",
+    "role": "top",
+    "champion": "Singed",
+    "tier": "A",
+    "winrate": "52.79%",
+    "pickrate": "2.1%",
+    "banrate": "0.3%",
+    "matches_played": "36,852"
+  },
+  {
+    "rank": "2",
+    "role": "top",
+    "champion": "Quinn",
+    "tier": "A",
+    "winrate": "52.58%",
+    "pickrate": "2.2%",
+    "banrate": "0.9%",
+    "matches_played": "38,870"
+  },
+  {
+    "rank": "3",
+    "role": "top",
+    "champion": "Kled",
+    "tier": "S+",
+    "winrate": "52.43%",
+    "pickrate": "5.0%",
+    "banrate": "9.8%",
+    "matches_played": "89,528"
+  },
+  {
+    "rank": "4",
+    "role": "top",
+    "champion": "Rengar",
+    "tier": "A",
+    "winrate": "51.82%",
+    "pickrate": "1.5%",
+    "banrate": "8.6%",
+    "matches_played": "26,804"
+  },
+  {
+    "rank": "5",
+    "role": "top",
+    "champion": "Urgot",
+    "tier": "A",
+    "winrate": "51.79%",
+    "pickrate": "3.1%",
+    "banrate": "1.9%",
+    "matches_played": "55,604"
+  },
+  {
+    "rank": "6",
+    "role": "top",
+    "champion": "Illaoi",
+    "tier": "S+",
+    "winrate": "51.72%",
+    "pickrate": "4.0%",
+    "banrate": "7.7%",
+    "matches_played": "70,944"
+  },
+  {
+    "rank": "7",
+    "role": "top",
+    "champion": "Malphite",
+    "tier": "S",
+    "winrate": "51.70%",
+    "pickrate": "4.7%",
+    "banrate": "3.2%",
+    "matches_played": "83,990"
+  },
+  {
+    "rank": "8",
+    "role": "top",
+    "champion": "Mordekaiser",
+    "tier": "S+",
+    "winrate": "51.59%",
+    "pickrate": "7.2%",
+    "banrate": "14.6%",
+    "matches_played": "129,214"
+  },
+  {
+    "rank": "9",
+    "role": "top",
+    "champion": "Volibear",
+    "tier": "B",
+    "winrate": "51.45%",
+    "pickrate": "1.2%",
+    "banrate": "0.9%",
+    "matches_played": "20,622"
+  },
+  {
+    "rank": "10",
+    "role": "top",
+    "champion": "Sion",
+    "tier": "B",
+    "winrate": "51.37%",
+    "pickrate": "1.7%",
+    "banrate": "0.1%",
+    "matches_played": "29,540"
+  },
+  {
+    "rank": "11",
+    "role": "top",
+    "champion": "Yorick",
+    "tier": "A",
+    "winrate": "51.28%",
+    "pickrate": "2.0%",
+    "banrate": "1.1%",
+    "matches_played": "36,571"
+  },
+  {
+    "rank": "12",
+    "role": "top",
+    "champion": "Pantheon",
+    "tier": "S+",
+    "winrate": "51.23%",
+    "pickrate": "8.1%",
+    "banrate": "17.7%",
+    "matches_played": "144,807"
+  },
+  {
+    "rank": "13",
+    "role": "top",
+    "champion": "Darius",
+    "tier": "S+",
+    "winrate": "51.07%",
+    "pickrate": "9.4%",
+    "banrate": "31.5%",
+    "matches_played": "167,717"
+  },
+  {
+    "rank": "14",
+    "role": "top",
+    "champion": "Jax",
+    "tier": "S+",
+    "winrate": "50.91%",
+    "pickrate": "8.4%",
+    "banrate": "19.1%",
+    "matches_played": "150,831"
+  },
+  {
+    "rank": "15",
+    "role": "top",
+    "champion": "Garen",
+    "tier": "S",
+    "winrate": "50.85%",
+    "pickrate": "5.6%",
+    "banrate": "3.2%",
+    "matches_played": "100,055"
+  },
+  {
+    "rank": "16",
+    "role": "top",
+    "champion": "Teemo",
+    "tier": "A",
+    "winrate": "50.78%",
+    "pickrate": "3.1%",
+    "banrate": "2.2%",
+    "matches_played": "55,226"
+  },
+  {
+    "rank": "17",
+    "role": "top",
+    "champion": "Tryndamere",
+    "tier": "S",
+    "winrate": "50.74%",
+    "pickrate": "4.4%",
+    "banrate": "4.0%",
+    "matches_played": "77,719"
+  },
+  {
+    "rank": "18",
+    "role": "top",
+    "champion": "Shen",
+    "tier": "A",
+    "winrate": "50.73%",
+    "pickrate": "5.9%",
+    "banrate": "0.6%",
+    "matches_played": "106,210"
+  },
+  {
+    "rank": "19",
+    "role": "top",
+    "champion": "Kennen",
+    "tier": "A",
+    "winrate": "50.35%",
+    "pickrate": "3.6%",
+    "banrate": "2.5%",
+    "matches_played": "63,395"
+  },
+  {
+    "rank": "20",
+    "role": "top",
+    "champion": "Cho'Gath",
+    "tier": "B",
+    "winrate": "50.23%",
+    "pickrate": "2.3%",
+    "banrate": "0.6%",
+    "matches_played": "41,773"
+  },
+  {
+    "rank": "21",
+    "role": "top",
+    "champion": "Dr. Mundo",
+    "tier": "A",
+    "winrate": "50.22%",
+    "pickrate": "2.4%",
+    "banrate": "4.8%",
+    "matches_played": "42,206"
+  },
+  {
+    "rank": "22",
+    "role": "top",
+    "champion": "Karma",
+    "tier": "B",
+    "winrate": "50.21%",
+    "pickrate": "1.1%",
+    "banrate": "1.8%",
+    "matches_played": "19,624"
+  },
+  {
+    "rank": "23",
+    "role": "top",
+    "champion": "Kayle",
+    "tier": "A",
+    "winrate": "50.20%",
+    "pickrate": "4.9%",
+    "banrate": "1.5%",
+    "matches_played": "88,147"
+  },
+  {
+    "rank": "24",
+    "role": "top",
+    "champion": "Camille",
+    "tier": "A",
+    "winrate": "50.05%",
+    "pickrate": "4.7%",
+    "banrate": "1.5%",
+    "matches_played": "84,376"
+  },
+  {
+    "rank": "25",
+    "role": "top",
+    "champion": "Swain",
+    "tier": "B",
+    "winrate": "49.93%",
+    "pickrate": "1.3%",
+    "banrate": "0.8%",
+    "matches_played": "22,566"
+  },
+  {
+    "rank": "26",
+    "role": "top",
+    "champion": "Ornn",
+    "tier": "B",
+    "winrate": "49.91%",
+    "pickrate": "2.0%",
+    "banrate": "0.2%",
+    "matches_played": "34,948"
+  },
+  {
+    "rank": "27",
+    "role": "top",
+    "champion": "Nasus",
+    "tier": "A",
+    "winrate": "49.87%",
+    "pickrate": "4.3%",
+    "banrate": "3.9%",
+    "matches_played": "77,518"
+  },
+  {
+    "rank": "28",
+    "role": "top",
+    "champion": "Fiora",
+    "tier": "A",
+    "winrate": "49.82%",
+    "pickrate": "7.5%",
+    "banrate": "8.9%",
+    "matches_played": "133,180"
+  },
+  {
+    "rank": "29",
+    "role": "top",
+    "champion": "Poppy",
+    "tier": "B",
+    "winrate": "49.80%",
+    "pickrate": "2.7%",
+    "banrate": "1.0%",
+    "matches_played": "47,436"
+  },
+  {
+    "rank": "30",
+    "role": "top",
+    "champion": "Gangplank",
+    "tier": "B",
+    "winrate": "49.70%",
+    "pickrate": "5.5%",
+    "banrate": "1.9%",
+    "matches_played": "98,762"
+  },
+  {
+    "rank": "31",
+    "role": "top",
+    "champion": "Rumble",
+    "tier": "B",
+    "winrate": "49.57%",
+    "pickrate": "1.9%",
+    "banrate": "0.5%",
+    "matches_played": "34,528"
+  },
+  {
+    "rank": "32",
+    "role": "top",
+    "champion": "Vladimir",
+    "tier": "A",
+    "winrate": "49.47%",
+    "pickrate": "4.9%",
+    "banrate": "23.6%",
+    "matches_played": "88,037"
+  },
+  {
+    "rank": "33",
+    "role": "top",
+    "champion": "Olaf",
+    "tier": "B",
+    "winrate": "49.30%",
+    "pickrate": "1.3%",
+    "banrate": "1.0%",
+    "matches_played": "22,936"
+  },
+  {
+    "rank": "34",
+    "role": "top",
+    "champion": "Aatrox",
+    "tier": "A",
+    "winrate": "49.29%",
+    "pickrate": "10.7%",
+    "banrate": "31.0%",
+    "matches_played": "190,625"
+  },
+  {
+    "rank": "35",
+    "role": "top",
+    "champion": "Gnar",
+    "tier": "B",
+    "winrate": "49.19%",
+    "pickrate": "3.2%",
+    "banrate": "0.6%",
+    "matches_played": "57,387"
+  },
+  {
+    "rank": "36",
+    "role": "top",
+    "champion": "Renekton",
+    "tier": "B",
+    "winrate": "49.13%",
+    "pickrate": "9.1%",
+    "banrate": "14.5%",
+    "matches_played": "162,922"
+  },
+  {
+    "rank": "37",
+    "role": "top",
+    "champion": "Ryze",
+    "tier": "B",
+    "winrate": "48.93%",
+    "pickrate": "2.4%",
+    "banrate": "1.1%",
+    "matches_played": "42,151"
+  },
+  {
+    "rank": "38",
+    "role": "top",
+    "champion": "Vayne",
+    "tier": "B",
+    "winrate": "48.91%",
+    "pickrate": "1.8%",
+    "banrate": "11.4%",
+    "matches_played": "31,334"
+  },
+  {
+    "rank": "39",
+    "role": "top",
+    "champion": "Riven",
+    "tier": "D",
+    "winrate": "48.56%",
+    "pickrate": "6.7%",
+    "banrate": "6.0%",
+    "matches_played": "119,811"
+  },
+  {
+    "rank": "40",
+    "role": "top",
+    "champion": "Yasuo",
+    "tier": "B",
+    "winrate": "48.50%",
+    "pickrate": "3.8%",
+    "banrate": "43.8%",
+    "matches_played": "68,387"
+  }
+]

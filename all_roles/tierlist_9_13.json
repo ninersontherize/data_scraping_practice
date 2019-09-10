@@ -1,0 +1,402 @@
+[
+  {
+    "rank": "1",
+    "role": "mid",
+    "champion": "Rumble",
+    "tier": "A",
+    "winrate": "54.46%",
+    "pickrate": "1.4%",
+    "banrate": "0.7%",
+    "matches_played": "21,866"
+  },
+  {
+    "rank": "2",
+    "role": "mid",
+    "champion": "Zilean",
+    "tier": "A",
+    "winrate": "53.82%",
+    "pickrate": "1.0%",
+    "banrate": "1.6%",
+    "matches_played": "16,318"
+  },
+  {
+    "rank": "3",
+    "role": "mid",
+    "champion": "Diana",
+    "tier": "S",
+    "winrate": "53.71%",
+    "pickrate": "6.0%",
+    "banrate": "3.9%",
+    "matches_played": "95,544"
+  },
+  {
+    "rank": "4",
+    "role": "supp",
+    "champion": "Lux",
+    "tier": "S+",
+    "winrate": "53.44%",
+    "pickrate": "20.8%",
+    "banrate": "24.2%",
+    "matches_played": "328,603"
+  },
+  {
+    "rank": "5",
+    "role": "jungle",
+    "champion": "Nunu & Willump",
+    "tier": "S",
+    "winrate": "53.38%",
+    "pickrate": "3.9%",
+    "banrate": "1.5%",
+    "matches_played": "61,522"
+  },
+  {
+    "rank": "6",
+    "role": "mid",
+    "champion": "Mordekaiser",
+    "tier": "S+",
+    "winrate": "53.29%",
+    "pickrate": "2.9%",
+    "banrate": "60.3%",
+    "matches_played": "46,423"
+  },
+  {
+    "rank": "7",
+    "role": "top",
+    "champion": "Mordekaiser",
+    "tier": "S+",
+    "winrate": "53.15%",
+    "pickrate": "10.7%",
+    "banrate": "60.3%",
+    "matches_played": "169,896"
+  },
+  {
+    "rank": "8",
+    "role": "jungle",
+    "champion": "Vi",
+    "tier": "S+",
+    "winrate": "53.00%",
+    "pickrate": "7.1%",
+    "banrate": "2.4%",
+    "matches_played": "112,257"
+  },
+  {
+    "rank": "9",
+    "role": "mid",
+    "champion": "Malzahar",
+    "tier": "S+",
+    "winrate": "52.98%",
+    "pickrate": "5.6%",
+    "banrate": "8.7%",
+    "matches_played": "87,971"
+  },
+  {
+    "rank": "10",
+    "role": "adc",
+    "champion": "Twitch",
+    "tier": "S",
+    "winrate": "52.94%",
+    "pickrate": "3.3%",
+    "banrate": "1.3%",
+    "matches_played": "51,856"
+  },
+  {
+    "rank": "11",
+    "role": "adc",
+    "champion": "Jinx",
+    "tier": "S+",
+    "winrate": "52.81%",
+    "pickrate": "14.2%",
+    "banrate": "1.5%",
+    "matches_played": "224,025"
+  },
+  {
+    "rank": "12",
+    "role": "supp",
+    "champion": "Janna",
+    "tier": "S",
+    "winrate": "52.81%",
+    "pickrate": "8.5%",
+    "banrate": "0.6%",
+    "matches_played": "133,665"
+  },
+  {
+    "rank": "13",
+    "role": "top",
+    "champion": "Yorick",
+    "tier": "A",
+    "winrate": "52.61%",
+    "pickrate": "2.2%",
+    "banrate": "1.2%",
+    "matches_played": "34,932"
+  },
+  {
+    "rank": "14",
+    "role": "top",
+    "champion": "Volibear",
+    "tier": "A",
+    "winrate": "52.48%",
+    "pickrate": "1.5%",
+    "banrate": "0.5%",
+    "matches_played": "24,251"
+  },
+  {
+    "rank": "15",
+    "role": "mid",
+    "champion": "Ahri",
+    "tier": "S+",
+    "winrate": "52.39%",
+    "pickrate": "10.5%",
+    "banrate": "6.4%",
+    "matches_played": "166,015"
+  },
+  {
+    "rank": "16",
+    "role": "mid",
+    "champion": "Lux",
+    "tier": "S",
+    "winrate": "52.36%",
+    "pickrate": "5.8%",
+    "banrate": "24.2%",
+    "matches_played": "92,008"
+  },
+  {
+    "rank": "17",
+    "role": "mid",
+    "champion": "Taliyah",
+    "tier": "A",
+    "winrate": "52.30%",
+    "pickrate": "1.3%",
+    "banrate": "0.4%",
+    "matches_played": "20,630"
+  },
+  {
+    "rank": "18",
+    "role": "jungle",
+    "champion": "Volibear",
+    "tier": "A",
+    "winrate": "52.29%",
+    "pickrate": "1.8%",
+    "banrate": "0.5%",
+    "matches_played": "28,534"
+  },
+  {
+    "rank": "19",
+    "role": "top",
+    "champion": "Quinn",
+    "tier": "A",
+    "winrate": "52.28%",
+    "pickrate": "1.2%",
+    "banrate": "0.3%",
+    "matches_played": "18,383"
+  },
+  {
+    "rank": "20",
+    "role": "jungle",
+    "champion": "Warwick",
+    "tier": "A",
+    "winrate": "52.27%",
+    "pickrate": "3.0%",
+    "banrate": "0.5%",
+    "matches_played": "47,754"
+  },
+  {
+    "rank": "21",
+    "role": "jungle",
+    "champion": "Hecarim",
+    "tier": "S+",
+    "winrate": "52.04%",
+    "pickrate": "9.6%",
+    "banrate": "15.5%",
+    "matches_played": "152,157"
+  },
+  {
+    "rank": "22",
+    "role": "supp",
+    "champion": "Nami",
+    "tier": "S",
+    "winrate": "52.03%",
+    "pickrate": "11.9%",
+    "banrate": "1.2%",
+    "matches_played": "187,966"
+  },
+  {
+    "rank": "23",
+    "role": "top",
+    "champion": "Kennen",
+    "tier": "A",
+    "winrate": "52.01%",
+    "pickrate": "4.5%",
+    "banrate": "2.7%",
+    "matches_played": "71,144"
+  },
+  {
+    "rank": "24",
+    "role": "mid",
+    "champion": "Vel'Koz",
+    "tier": "A",
+    "winrate": "51.88%",
+    "pickrate": "3.5%",
+    "banrate": "1.1%",
+    "matches_played": "54,891"
+  },
+  {
+    "rank": "25",
+    "role": "mid",
+    "champion": "Morgana",
+    "tier": "S",
+    "winrate": "51.85%",
+    "pickrate": "2.0%",
+    "banrate": "39.1%",
+    "matches_played": "31,812"
+  },
+  {
+    "rank": "26",
+    "role": "top",
+    "champion": "Illaoi",
+    "tier": "S",
+    "winrate": "51.83%",
+    "pickrate": "4.9%",
+    "banrate": "8.2%",
+    "matches_played": "77,613"
+  },
+  {
+    "rank": "27",
+    "role": "adc",
+    "champion": "Sivir",
+    "tier": "S+",
+    "winrate": "51.83%",
+    "pickrate": "16.8%",
+    "banrate": "20.1%",
+    "matches_played": "265,511"
+  },
+  {
+    "rank": "28",
+    "role": "mid",
+    "champion": "Talon",
+    "tier": "S+",
+    "winrate": "51.81%",
+    "pickrate": "6.9%",
+    "banrate": "8.7%",
+    "matches_played": "109,091"
+  },
+  {
+    "rank": "29",
+    "role": "top",
+    "champion": "Urgot",
+    "tier": "A",
+    "winrate": "51.67%",
+    "pickrate": "3.2%",
+    "banrate": "2.4%",
+    "matches_played": "50,982"
+  },
+  {
+    "rank": "30",
+    "role": "jungle",
+    "champion": "Evelynn",
+    "tier": "S+",
+    "winrate": "51.67%",
+    "pickrate": "7.2%",
+    "banrate": "23.8%",
+    "matches_played": "113,817"
+  },
+  {
+    "rank": "31",
+    "role": "jungle",
+    "champion": "Jarvan IV",
+    "tier": "S+",
+    "winrate": "51.66%",
+    "pickrate": "12.7%",
+    "banrate": "4.7%",
+    "matches_played": "200,291"
+  },
+  {
+    "rank": "32",
+    "role": "top",
+    "champion": "Singed",
+    "tier": "A",
+    "winrate": "51.61%",
+    "pickrate": "1.7%",
+    "banrate": "0.2%",
+    "matches_played": "26,218"
+  },
+  {
+    "rank": "33",
+    "role": "adc",
+    "champion": "Ashe",
+    "tier": "S",
+    "winrate": "51.60%",
+    "pickrate": "12.2%",
+    "banrate": "1.3%",
+    "matches_played": "193,201"
+  },
+  {
+    "rank": "34",
+    "role": "jungle",
+    "champion": "Udyr",
+    "tier": "A",
+    "winrate": "51.57%",
+    "pickrate": "3.2%",
+    "banrate": "2.0%",
+    "matches_played": "50,161"
+  },
+  {
+    "rank": "35",
+    "role": "mid",
+    "champion": "Katarina",
+    "tier": "S+",
+    "winrate": "51.57%",
+    "pickrate": "8.7%",
+    "banrate": "8.0%",
+    "matches_played": "136,954"
+  },
+  {
+    "rank": "36",
+    "role": "top",
+    "champion": "Riven",
+    "tier": "S",
+    "winrate": "51.55%",
+    "pickrate": "10.5%",
+    "banrate": "8.7%",
+    "matches_played": "166,830"
+  },
+  {
+    "rank": "37",
+    "role": "jungle",
+    "champion": "Shaco",
+    "tier": "S",
+    "winrate": "51.53%",
+    "pickrate": "3.8%",
+    "banrate": "2.3%",
+    "matches_played": "60,109"
+  },
+  {
+    "rank": "38",
+    "role": "top",
+    "champion": "Tahm Kench",
+    "tier": "S+",
+    "winrate": "51.53%",
+    "pickrate": "5.0%",
+    "banrate": "21.2%",
+    "matches_played": "78,556"
+  },
+  {
+    "rank": "39",
+    "role": "mid",
+    "champion": "Anivia",
+    "tier": "A",
+    "winrate": "51.44%",
+    "pickrate": "2.8%",
+    "banrate": "0.9%",
+    "matches_played": "45,052"
+  },
+  {
+    "rank": "40",
+    "role": "top",
+    "champion": "Pantheon",
+    "tier": "A",
+    "winrate": "51.44%",
+    "pickrate": "2.1%",
+    "banrate": "2.7%",
+    "matches_played": "33,055"
+  }
+]

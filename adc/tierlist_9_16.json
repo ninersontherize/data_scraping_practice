@@ -1,0 +1,172 @@
+[
+  {
+    "rank": "1",
+    "role": "adc",
+    "champion": "Jinx",
+    "tier": "S+",
+    "winrate": "53.21%",
+    "pickrate": "21.5%",
+    "banrate": "3.9%",
+    "matches_played": "382,209"
+  },
+  {
+    "rank": "2",
+    "role": "adc",
+    "champion": "Twitch",
+    "tier": "A",
+    "winrate": "52.28%",
+    "pickrate": "3.5%",
+    "banrate": "1.4%",
+    "matches_played": "62,016"
+  },
+  {
+    "rank": "3",
+    "role": "adc",
+    "champion": "Kog'Maw",
+    "tier": "A",
+    "winrate": "51.86%",
+    "pickrate": "1.1%",
+    "banrate": "0.1%",
+    "matches_played": "19,742"
+  },
+  {
+    "rank": "4",
+    "role": "adc",
+    "champion": "Xayah",
+    "tier": "S+",
+    "winrate": "51.52%",
+    "pickrate": "13.4%",
+    "banrate": "3.1%",
+    "matches_played": "238,714"
+  },
+  {
+    "rank": "5",
+    "role": "adc",
+    "champion": "Jhin",
+    "tier": "S",
+    "winrate": "51.46%",
+    "pickrate": "13.3%",
+    "banrate": "1.7%",
+    "matches_played": "236,134"
+  },
+  {
+    "rank": "6",
+    "role": "adc",
+    "champion": "Yasuo",
+    "tier": "S",
+    "winrate": "51.41%",
+    "pickrate": "1.5%",
+    "banrate": "43.7%",
+    "matches_played": "26,444"
+  },
+  {
+    "rank": "7",
+    "role": "adc",
+    "champion": "Ashe",
+    "tier": "S",
+    "winrate": "51.29%",
+    "pickrate": "7.5%",
+    "banrate": "0.6%",
+    "matches_played": "133,803"
+  },
+  {
+    "rank": "8",
+    "role": "adc",
+    "champion": "Draven",
+    "tier": "S+",
+    "winrate": "51.24%",
+    "pickrate": "8.3%",
+    "banrate": "25.4%",
+    "matches_played": "147,179"
+  },
+  {
+    "rank": "9",
+    "role": "adc",
+    "champion": "Miss Fortune",
+    "tier": "A",
+    "winrate": "50.73%",
+    "pickrate": "3.8%",
+    "banrate": "0.3%",
+    "matches_played": "67,320"
+  },
+  {
+    "rank": "10",
+    "role": "adc",
+    "champion": "Vayne",
+    "tier": "S+",
+    "winrate": "50.37%",
+    "pickrate": "15.3%",
+    "banrate": "11.9%",
+    "matches_played": "271,857"
+  },
+  {
+    "rank": "11",
+    "role": "adc",
+    "champion": "Caitlyn",
+    "tier": "S",
+    "winrate": "50.15%",
+    "pickrate": "18.8%",
+    "banrate": "9.8%",
+    "matches_played": "334,710"
+  },
+  {
+    "rank": "12",
+    "role": "adc",
+    "champion": "Tristana",
+    "tier": "A",
+    "winrate": "50.04%",
+    "pickrate": "9.8%",
+    "banrate": "2.8%",
+    "matches_played": "174,560"
+  },
+  {
+    "rank": "13",
+    "role": "adc",
+    "champion": "Sivir",
+    "tier": "A",
+    "winrate": "49.58%",
+    "pickrate": "7.0%",
+    "banrate": "6.2%",
+    "matches_played": "124,779"
+  },
+  {
+    "rank": "14",
+    "role": "adc",
+    "champion": "Kai'Sa",
+    "tier": "D",
+    "winrate": "49.32%",
+    "pickrate": "30.4%",
+    "banrate": "10.1%",
+    "matches_played": "541,144"
+  },
+  {
+    "rank": "15",
+    "role": "adc",
+    "champion": "Varus",
+    "tier": "C",
+    "winrate": "47.83%",
+    "pickrate": "3.9%",
+    "banrate": "0.2%",
+    "matches_played": "68,683"
+  },
+  {
+    "rank": "16",
+    "role": "adc",
+    "champion": "Lucian",
+    "tier": "D",
+    "winrate": "47.67%",
+    "pickrate": "15.6%",
+    "banrate": "2.4%",
+    "matches_played": "277,019"
+  },
+  {
+    "rank": "17",
+    "role": "adc",
+    "champion": "Ezreal",
+    "tier": "D",
+    "winrate": "46.32%",
+    "pickrate": "19.7%",
+    "banrate": "8.6%",
+    "matches_played": "351,256"
+  }
+]

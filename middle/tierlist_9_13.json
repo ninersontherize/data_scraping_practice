@@ -1,0 +1,402 @@
+[
+  {
+    "rank": "1",
+    "role": "mid",
+    "champion": "Rumble",
+    "tier": "A",
+    "winrate": "54.46%",
+    "pickrate": "1.4%",
+    "banrate": "0.7%",
+    "matches_played": "21,866"
+  },
+  {
+    "rank": "2",
+    "role": "mid",
+    "champion": "Zilean",
+    "tier": "A",
+    "winrate": "53.82%",
+    "pickrate": "1.0%",
+    "banrate": "1.6%",
+    "matches_played": "16,318"
+  },
+  {
+    "rank": "3",
+    "role": "mid",
+    "champion": "Diana",
+    "tier": "S",
+    "winrate": "53.71%",
+    "pickrate": "6.0%",
+    "banrate": "3.9%",
+    "matches_played": "95,544"
+  },
+  {
+    "rank": "4",
+    "role": "mid",
+    "champion": "Mordekaiser",
+    "tier": "S+",
+    "winrate": "53.29%",
+    "pickrate": "2.9%",
+    "banrate": "60.3%",
+    "matches_played": "46,423"
+  },
+  {
+    "rank": "5",
+    "role": "mid",
+    "champion": "Malzahar",
+    "tier": "S+",
+    "winrate": "52.98%",
+    "pickrate": "5.6%",
+    "banrate": "8.7%",
+    "matches_played": "87,971"
+  },
+  {
+    "rank": "6",
+    "role": "mid",
+    "champion": "Ahri",
+    "tier": "S+",
+    "winrate": "52.39%",
+    "pickrate": "10.5%",
+    "banrate": "6.4%",
+    "matches_played": "166,015"
+  },
+  {
+    "rank": "7",
+    "role": "mid",
+    "champion": "Lux",
+    "tier": "S",
+    "winrate": "52.36%",
+    "pickrate": "5.8%",
+    "banrate": "24.2%",
+    "matches_played": "92,008"
+  },
+  {
+    "rank": "8",
+    "role": "mid",
+    "champion": "Taliyah",
+    "tier": "A",
+    "winrate": "52.30%",
+    "pickrate": "1.3%",
+    "banrate": "0.4%",
+    "matches_played": "20,630"
+  },
+  {
+    "rank": "9",
+    "role": "mid",
+    "champion": "Vel'Koz",
+    "tier": "A",
+    "winrate": "51.88%",
+    "pickrate": "3.5%",
+    "banrate": "1.1%",
+    "matches_played": "54,891"
+  },
+  {
+    "rank": "10",
+    "role": "mid",
+    "champion": "Morgana",
+    "tier": "S",
+    "winrate": "51.85%",
+    "pickrate": "2.0%",
+    "banrate": "39.1%",
+    "matches_played": "31,812"
+  },
+  {
+    "rank": "11",
+    "role": "mid",
+    "champion": "Talon",
+    "tier": "S+",
+    "winrate": "51.81%",
+    "pickrate": "6.9%",
+    "banrate": "8.7%",
+    "matches_played": "109,091"
+  },
+  {
+    "rank": "12",
+    "role": "mid",
+    "champion": "Katarina",
+    "tier": "S+",
+    "winrate": "51.57%",
+    "pickrate": "8.7%",
+    "banrate": "8.0%",
+    "matches_played": "136,954"
+  },
+  {
+    "rank": "13",
+    "role": "mid",
+    "champion": "Anivia",
+    "tier": "A",
+    "winrate": "51.44%",
+    "pickrate": "2.8%",
+    "banrate": "0.9%",
+    "matches_played": "45,052"
+  },
+  {
+    "rank": "14",
+    "role": "mid",
+    "champion": "Zed",
+    "tier": "S+",
+    "winrate": "51.43%",
+    "pickrate": "12.0%",
+    "banrate": "42.6%",
+    "matches_played": "190,577"
+  },
+  {
+    "rank": "15",
+    "role": "mid",
+    "champion": "Fizz",
+    "tier": "S",
+    "winrate": "51.17%",
+    "pickrate": "5.0%",
+    "banrate": "6.2%",
+    "matches_played": "79,582"
+  },
+  {
+    "rank": "16",
+    "role": "mid",
+    "champion": "Annie",
+    "tier": "B",
+    "winrate": "51.11%",
+    "pickrate": "1.5%",
+    "banrate": "0.4%",
+    "matches_played": "23,512"
+  },
+  {
+    "rank": "17",
+    "role": "mid",
+    "champion": "Kassadin",
+    "tier": "S",
+    "winrate": "50.77%",
+    "pickrate": "4.7%",
+    "banrate": "4.8%",
+    "matches_played": "74,019"
+  },
+  {
+    "rank": "18",
+    "role": "mid",
+    "champion": "Ekko",
+    "tier": "A",
+    "winrate": "50.74%",
+    "pickrate": "4.3%",
+    "banrate": "0.9%",
+    "matches_played": "67,513"
+  },
+  {
+    "rank": "19",
+    "role": "mid",
+    "champion": "Neeko",
+    "tier": "A",
+    "winrate": "50.68%",
+    "pickrate": "4.2%",
+    "banrate": "3.9%",
+    "matches_played": "66,012"
+  },
+  {
+    "rank": "20",
+    "role": "mid",
+    "champion": "Corki",
+    "tier": "A",
+    "winrate": "50.66%",
+    "pickrate": "3.7%",
+    "banrate": "0.3%",
+    "matches_played": "57,953"
+  },
+  {
+    "rank": "21",
+    "role": "mid",
+    "champion": "Vladimir",
+    "tier": "S+",
+    "winrate": "50.66%",
+    "pickrate": "6.6%",
+    "banrate": "21.5%",
+    "matches_played": "104,733"
+  },
+  {
+    "rank": "22",
+    "role": "mid",
+    "champion": "Veigar",
+    "tier": "A",
+    "winrate": "50.42%",
+    "pickrate": "4.8%",
+    "banrate": "1.6%",
+    "matches_played": "75,328"
+  },
+  {
+    "rank": "23",
+    "role": "mid",
+    "champion": "Aatrox",
+    "tier": "S",
+    "winrate": "50.37%",
+    "pickrate": "2.7%",
+    "banrate": "32.9%",
+    "matches_played": "43,469"
+  },
+  {
+    "rank": "24",
+    "role": "mid",
+    "champion": "Swain",
+    "tier": "B",
+    "winrate": "50.28%",
+    "pickrate": "1.1%",
+    "banrate": "0.2%",
+    "matches_played": "17,249"
+  },
+  {
+    "rank": "25",
+    "role": "mid",
+    "champion": "Zoe",
+    "tier": "A",
+    "winrate": "50.26%",
+    "pickrate": "4.3%",
+    "banrate": "4.2%",
+    "matches_played": "68,168"
+  },
+  {
+    "rank": "26",
+    "role": "mid",
+    "champion": "Karma",
+    "tier": "A",
+    "winrate": "50.12%",
+    "pickrate": "1.9%",
+    "banrate": "10.4%",
+    "matches_played": "29,968"
+  },
+  {
+    "rank": "27",
+    "role": "mid",
+    "champion": "Xerath",
+    "tier": "B",
+    "winrate": "50.09%",
+    "pickrate": "3.8%",
+    "banrate": "1.0%",
+    "matches_played": "60,664"
+  },
+  {
+    "rank": "28",
+    "role": "mid",
+    "champion": "Twisted Fate",
+    "tier": "B",
+    "winrate": "49.96%",
+    "pickrate": "5.6%",
+    "banrate": "0.8%",
+    "matches_played": "89,368"
+  },
+  {
+    "rank": "29",
+    "role": "mid",
+    "champion": "Ziggs",
+    "tier": "B",
+    "winrate": "49.85%",
+    "pickrate": "1.4%",
+    "banrate": "0.1%",
+    "matches_played": "21,994"
+  },
+  {
+    "rank": "30",
+    "role": "mid",
+    "champion": "Cassiopeia",
+    "tier": "B",
+    "winrate": "49.76%",
+    "pickrate": "1.7%",
+    "banrate": "0.4%",
+    "matches_played": "26,668"
+  },
+  {
+    "rank": "31",
+    "role": "mid",
+    "champion": "Orianna",
+    "tier": "B",
+    "winrate": "49.59%",
+    "pickrate": "5.2%",
+    "banrate": "0.6%",
+    "matches_played": "82,930"
+  },
+  {
+    "rank": "32",
+    "role": "mid",
+    "champion": "Syndra",
+    "tier": "B",
+    "winrate": "49.09%",
+    "pickrate": "2.7%",
+    "banrate": "0.4%",
+    "matches_played": "42,301"
+  },
+  {
+    "rank": "33",
+    "role": "mid",
+    "champion": "Viktor",
+    "tier": "B",
+    "winrate": "48.58%",
+    "pickrate": "1.9%",
+    "banrate": "0.2%",
+    "matches_played": "30,508"
+  },
+  {
+    "rank": "34",
+    "role": "mid",
+    "champion": "Yasuo",
+    "tier": "D",
+    "winrate": "47.72%",
+    "pickrate": "13.1%",
+    "banrate": "42.5%",
+    "matches_played": "207,306"
+  },
+  {
+    "rank": "35",
+    "role": "mid",
+    "champion": "Azir",
+    "tier": "C",
+    "winrate": "47.44%",
+    "pickrate": "3.5%",
+    "banrate": "0.6%",
+    "matches_played": "55,434"
+  },
+  {
+    "rank": "36",
+    "role": "mid",
+    "champion": "LeBlanc",
+    "tier": "D",
+    "winrate": "47.19%",
+    "pickrate": "4.6%",
+    "banrate": "10.5%",
+    "matches_played": "72,085"
+  },
+  {
+    "rank": "37",
+    "role": "mid",
+    "champion": "Lissandra",
+    "tier": "C",
+    "winrate": "46.76%",
+    "pickrate": "1.9%",
+    "banrate": "0.9%",
+    "matches_played": "29,842"
+  },
+  {
+    "rank": "38",
+    "role": "mid",
+    "champion": "Ryze",
+    "tier": "D",
+    "winrate": "46.07%",
+    "pickrate": "4.9%",
+    "banrate": "2.8%",
+    "matches_played": "77,185"
+  },
+  {
+    "rank": "39",
+    "role": "mid",
+    "champion": "Sylas",
+    "tier": "D",
+    "winrate": "46.03%",
+    "pickrate": "3.8%",
+    "banrate": "9.1%",
+    "matches_played": "60,545"
+  },
+  {
+    "rank": "40",
+    "role": "mid",
+    "champion": "Qiyana",
+    "tier": "D",
+    "winrate": "45.59%",
+    "pickrate": "4.5%",
+    "banrate": "18.8%",
+    "matches_played": "71,164"
+  }
+]
