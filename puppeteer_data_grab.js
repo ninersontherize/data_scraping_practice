@@ -1,4 +1,5 @@
 const puppeteer = require('puppeteer');
+const fs = require('fs');
 
 function run() {
   return new Promise(async (resolve, reject) => {
@@ -8,7 +9,7 @@ function run() {
       await page.goto("https://u.gg/lol/tier-list?role=support");
       await page.click('#qcCmpButtons > button:nth-child(2)');
       await page.waitForSelector("strong.champion-name");
-      let urls = await page.evaluate(() => {
+      let tierlist = await page.evaluate(() => {
         let results = [];
         let ranks = Array.prototype.slice.apply(document.querySelectorAll('div.rt-td.rank'));
         let roles = Array.prototype.slice.apply(document.querySelectorAll('img.tier-list-role'));
@@ -33,7 +34,11 @@ function run() {
         return results;
       });
       browser.close();
-      return resolve(urls);
+      fs.writeFile("tierlist.json", JSON.stringify(tierlist), function(e) {
+        if (e) throw e;
+        console.log("Saved!");
+      });
+      console.log("Browser Closed");
     } catch (e) {
       return reject(e);
     }

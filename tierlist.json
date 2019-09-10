@@ -1,0 +1,262 @@
+[
+  {
+    "rank": "1",
+    "role": "supp",
+    "champion": "Janna",
+    "tier": "S",
+    "winrate": "52.93%",
+    "pickrate": "9.4%",
+    "banrate": "1.0%",
+    "matches_played": "167,612"
+  },
+  {
+    "rank": "2",
+    "role": "supp",
+    "champion": "Bard",
+    "tier": "S",
+    "winrate": "52.59%",
+    "pickrate": "4.9%",
+    "banrate": "0.4%",
+    "matches_played": "87,926"
+  },
+  {
+    "rank": "3",
+    "role": "supp",
+    "champion": "Soraka",
+    "tier": "S",
+    "winrate": "52.58%",
+    "pickrate": "6.4%",
+    "banrate": "1.5%",
+    "matches_played": "113,581"
+  },
+  {
+    "rank": "4",
+    "role": "supp",
+    "champion": "Nami",
+    "tier": "S",
+    "winrate": "52.32%",
+    "pickrate": "11.6%",
+    "banrate": "1.3%",
+    "matches_played": "206,776"
+  },
+  {
+    "rank": "5",
+    "role": "supp",
+    "champion": "Nautilus",
+    "tier": "S+",
+    "winrate": "52.07%",
+    "pickrate": "11.6%",
+    "banrate": "18.6%",
+    "matches_played": "207,926"
+  },
+  {
+    "rank": "6",
+    "role": "supp",
+    "champion": "Zyra",
+    "tier": "S",
+    "winrate": "51.53%",
+    "pickrate": "5.0%",
+    "banrate": "3.0%",
+    "matches_played": "88,781"
+  },
+  {
+    "rank": "7",
+    "role": "supp",
+    "champion": "Leona",
+    "tier": "S",
+    "winrate": "51.49%",
+    "pickrate": "9.9%",
+    "banrate": "5.3%",
+    "matches_played": "177,071"
+  },
+  {
+    "rank": "8",
+    "role": "supp",
+    "champion": "Zilean",
+    "tier": "A",
+    "winrate": "51.20%",
+    "pickrate": "3.5%",
+    "banrate": "1.5%",
+    "matches_played": "63,350"
+  },
+  {
+    "rank": "9",
+    "role": "supp",
+    "champion": "Rakan",
+    "tier": "S",
+    "winrate": "50.99%",
+    "pickrate": "10.5%",
+    "banrate": "1.7%",
+    "matches_played": "188,141"
+  },
+  {
+    "rank": "10",
+    "role": "supp",
+    "champion": "Swain",
+    "tier": "A",
+    "winrate": "50.88%",
+    "pickrate": "1.6%",
+    "banrate": "0.8%",
+    "matches_played": "27,699"
+  },
+  {
+    "rank": "11",
+    "role": "supp",
+    "champion": "Blitzcrank",
+    "tier": "S",
+    "winrate": "50.81%",
+    "pickrate": "6.0%",
+    "banrate": "4.6%",
+    "matches_played": "107,403"
+  },
+  {
+    "rank": "12",
+    "role": "supp",
+    "champion": "Xerath",
+    "tier": "A",
+    "winrate": "50.71%",
+    "pickrate": "2.1%",
+    "banrate": "1.2%",
+    "matches_played": "38,272"
+  },
+  {
+    "rank": "13",
+    "role": "supp",
+    "champion": "Sona",
+    "tier": "A",
+    "winrate": "50.53%",
+    "pickrate": "2.8%",
+    "banrate": "0.1%",
+    "matches_played": "49,473"
+  },
+  {
+    "rank": "14",
+    "role": "supp",
+    "champion": "Vel'Koz",
+    "tier": "A",
+    "winrate": "50.50%",
+    "pickrate": "3.2%",
+    "banrate": "1.1%",
+    "matches_played": "56,490"
+  },
+  {
+    "rank": "15",
+    "role": "supp",
+    "champion": "Fiddlesticks",
+    "tier": "A",
+    "winrate": "50.42%",
+    "pickrate": "3.0%",
+    "banrate": "2.3%",
+    "matches_played": "54,243"
+  },
+  {
+    "rank": "16",
+    "role": "supp",
+    "champion": "Brand",
+    "tier": "S",
+    "winrate": "50.27%",
+    "pickrate": "4.7%",
+    "banrate": "5.2%",
+    "matches_played": "84,298"
+  },
+  {
+    "rank": "17",
+    "role": "supp",
+    "champion": "Thresh",
+    "tier": "S+",
+    "winrate": "50.14%",
+    "pickrate": "23.3%",
+    "banrate": "14.0%",
+    "matches_played": "416,414"
+  },
+  {
+    "rank": "18",
+    "role": "supp",
+    "champion": "Pyke",
+    "tier": "S+",
+    "winrate": "49.97%",
+    "pickrate": "13.7%",
+    "banrate": "45.5%",
+    "matches_played": "244,614"
+  },
+  {
+    "rank": "19",
+    "role": "supp",
+    "champion": "Lulu",
+    "tier": "A",
+    "winrate": "49.93%",
+    "pickrate": "9.4%",
+    "banrate": "4.4%",
+    "matches_played": "167,337"
+  },
+  {
+    "rank": "20",
+    "role": "supp",
+    "champion": "Taric",
+    "tier": "B",
+    "winrate": "49.78%",
+    "pickrate": "1.4%",
+    "banrate": "0.3%",
+    "matches_played": "25,338"
+  },
+  {
+    "rank": "21",
+    "role": "supp",
+    "champion": "Morgana",
+    "tier": "S+",
+    "winrate": "49.69%",
+    "pickrate": "11.3%",
+    "banrate": "47.2%",
+    "matches_played": "202,383"
+  },
+  {
+    "rank": "22",
+    "role": "supp",
+    "champion": "Karma",
+    "tier": "B",
+    "winrate": "49.36%",
+    "pickrate": "7.5%",
+    "banrate": "1.8%",
+    "matches_played": "134,743"
+  },
+  {
+    "rank": "23",
+    "role": "supp",
+    "champion": "Lux",
+    "tier": "C",
+    "winrate": "48.81%",
+    "pickrate": "8.3%",
+    "banrate": "2.9%",
+    "matches_played": "148,019"
+  },
+  {
+    "rank": "24",
+    "role": "supp",
+    "champion": "Alistar",
+    "tier": "D",
+    "winrate": "46.74%",
+    "pickrate": "4.2%",
+    "banrate": "1.0%",
+    "matches_played": "74,310"
+  },
+  {
+    "rank": "25",
+    "role": "supp",
+    "champion": "Braum",
+    "tier": "D",
+    "winrate": "45.44%",
+    "pickrate": "4.5%",
+    "banrate": "1.3%",
+    "matches_played": "80,532"
+  },
+  {
+    "rank": "26",
+    "role": "supp",
+    "champion": "Yuumi",
+    "tier": "D",
+    "winrate": "43.34%",
+    "pickrate": "8.8%",
+    "banrate": "30.8%",
+    "matches_played": "156,644"
+  }
+]
