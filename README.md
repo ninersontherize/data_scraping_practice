@@ -16,7 +16,7 @@ Upon installation of dependancies using npm installer you should be set to go! R
 $ node u_gg_single_patch 17 --> this will return the tier lists for all positions for patch 9.17
 
 ```
-
+```
 $ node u_gg_historical 17 --> this will return the tier lists for all positions for every patch dating back to 9.13
 
 ```
