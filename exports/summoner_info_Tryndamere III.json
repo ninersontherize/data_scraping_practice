@@ -1,0 +1,60 @@
+[
+    {
+        "summoner": "Tryndamere III",
+        "summoner_level": 172,
+        "tierRank": "Gold 1",
+        "winratio": 58,
+        "total_games": 84,
+        "champ_info": [
+            {
+                "champion": "Nasus",
+                "cspm": 5.9,
+                "kda": 2.25,
+                "win_ratio": 56,
+                "games_played": 131
+            },
+            {
+                "champion": "Garen",
+                "cspm": 5.9,
+                "kda": 3.13,
+                "win_ratio": 52,
+                "games_played": 27
+            },
+            {
+                "champion": "Tryndamere",
+                "cspm": 7,
+                "kda": 1.25,
+                "win_ratio": 37,
+                "games_played": 19
+            },
+            {
+                "champion": "Mordekaiser",
+                "cspm": 5.6,
+                "kda": 2.43,
+                "win_ratio": 57,
+                "games_played": 14
+            },
+            {
+                "champion": "Brand",
+                "cspm": 5.4,
+                "kda": 3.24,
+                "win_ratio": 50,
+                "games_played": 6
+            },
+            {
+                "champion": "Malphite",
+                "cspm": 5.4,
+                "kda": 3.7,
+                "win_ratio": 75,
+                "games_played": 4
+            },
+            {
+                "champion": "Darius",
+                "cspm": 5.8,
+                "kda": 1.05,
+                "win_ratio": 33,
+                "games_played": 3
+            }
+        ]
+    }
+]

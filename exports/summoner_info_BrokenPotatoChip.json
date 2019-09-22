@@ -1,0 +1,60 @@
+[
+    {
+        "summoner": "BrokenPotatoChip",
+        "summoner_level": 45,
+        "tierRank": "Gold 3",
+        "winratio": 59,
+        "total_games": 73,
+        "champ_info": [
+            {
+                "champion": "Pyke",
+                "cspm": 0.5,
+                "kda": 2.92,
+                "win_ratio": 72,
+                "games_played": 18
+            },
+            {
+                "champion": "Thresh",
+                "cspm": 0.4,
+                "kda": 3.28,
+                "win_ratio": 50,
+                "games_played": 18
+            },
+            {
+                "champion": "Bard",
+                "cspm": 0.6,
+                "kda": 2.72,
+                "win_ratio": 67,
+                "games_played": 12
+            },
+            {
+                "champion": "Camille",
+                "cspm": 5.4,
+                "kda": 2.41,
+                "win_ratio": 71,
+                "games_played": 7
+            },
+            {
+                "champion": "Lux",
+                "cspm": 2.6,
+                "kda": 4.55,
+                "win_ratio": 50,
+                "games_played": 4
+            },
+            {
+                "champion": "Yasuo",
+                "cspm": 6.7,
+                "kda": 2.85,
+                "win_ratio": 67,
+                "games_played": 3
+            },
+            {
+                "champion": "Riven",
+                "cspm": 4.8,
+                "kda": 1.12,
+                "win_ratio": 33,
+                "games_played": 3
+            }
+        ]
+    }
+]

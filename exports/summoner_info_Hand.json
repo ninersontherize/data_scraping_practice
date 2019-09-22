@@ -1,0 +1,60 @@
+[
+    {
+        "summoner": "Hand",
+        "summoner_level": 196,
+        "tierRank": "Diamond 4",
+        "winratio": 60,
+        "total_games": 70,
+        "champ_info": [
+            {
+                "champion": "Hecarim",
+                "cspm": 5.4,
+                "kda": 3,
+                "win_ratio": 45,
+                "games_played": 11
+            },
+            {
+                "champion": "Karthus",
+                "cspm": 6.7,
+                "kda": 4,
+                "win_ratio": 80,
+                "games_played": 10
+            },
+            {
+                "champion": "Kindred",
+                "cspm": 6.1,
+                "kda": 3.33,
+                "win_ratio": 56,
+                "games_played": 9
+            },
+            {
+                "champion": "Katarina",
+                "cspm": 6.6,
+                "kda": 4.5,
+                "win_ratio": 63,
+                "games_played": 8
+            },
+            {
+                "champion": "Sylas",
+                "cspm": 5.7,
+                "kda": 3.75,
+                "win_ratio": 63,
+                "games_played": 8
+            },
+            {
+                "champion": "Zed",
+                "cspm": 6.1,
+                "kda": 4.44,
+                "win_ratio": 57,
+                "games_played": 7
+            },
+            {
+                "champion": "Ahri",
+                "cspm": 6,
+                "kda": 3.96,
+                "win_ratio": 43,
+                "games_played": 7
+            }
+        ]
+    }
+]

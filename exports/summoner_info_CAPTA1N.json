@@ -1,0 +1,60 @@
+[
+    {
+        "summoner": "CAPTA1N",
+        "summoner_level": 226,
+        "tierRank": "Diamond 4",
+        "winratio": 56,
+        "total_games": 321,
+        "champ_info": [
+            {
+                "champion": "Leona",
+                "cspm": 1.4,
+                "kda": 2.13,
+                "win_ratio": 66,
+                "games_played": 77
+            },
+            {
+                "champion": "Karma",
+                "cspm": 1.2,
+                "kda": 2.73,
+                "win_ratio": 56,
+                "games_played": 57
+            },
+            {
+                "champion": "Morgana",
+                "cspm": 0.9,
+                "kda": 3.19,
+                "win_ratio": 64,
+                "games_played": 47
+            },
+            {
+                "champion": "Camille",
+                "cspm": 4.5,
+                "kda": 1.9,
+                "win_ratio": 47,
+                "games_played": 32
+            },
+            {
+                "champion": "Thresh",
+                "cspm": 0.4,
+                "kda": 2.18,
+                "win_ratio": 48,
+                "games_played": 23
+            },
+            {
+                "champion": "Kayn",
+                "cspm": 5.2,
+                "kda": 2.15,
+                "win_ratio": 67,
+                "games_played": 18
+            },
+            {
+                "champion": "Rammus",
+                "cspm": 4.9,
+                "kda": 3.12,
+                "win_ratio": 71,
+                "games_played": 17
+            }
+        ]
+    }
+]
